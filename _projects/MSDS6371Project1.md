@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ames Housing Prices: MSDS 6371 Project 1
+title: Ames Housing Prices- MSDS 6371 Project 1
 description: Project Paper
 date: 2022-02-01 17:39:00
 img: assets/img/12.jpg
