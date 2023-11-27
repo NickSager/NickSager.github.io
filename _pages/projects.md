@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected data science and machine learning projects.
 nav: true
 nav_order: 2
-display_categories: [school, personal, work, fun]
+display_categories: [school, personal] #work, fun
 horizontal: false
 ---
 
