@@ -19,7 +19,7 @@ This is a brief project I did for a class on High Performance Computing. Our goa
 
 Because I am interested in deep learning, I wanted to use this project as an opportunity to set up and debug a suitable environment on the cluster. For my project, I chose to train a large enough neural network to tax the CPU-based machines and then compare the performance with an A100. Some of the highlights are included in the slideshow below. In short, the GPU performance was several orders of magnitude faster. I had fun with this project and learned a great deal about working with these resources. It was a great opportunity to brush up on ssh, linux, and the cli, and getting things to run well on the cluster ended up being more difficult than it sounds.
 
-The slideshow below is made with [Quarto](https://quarto.org/). It is a great tool for making reproducible documents and presentations, and I am beginning to prefer it for most of my work.
+The slideshow below is made with [Quarto](https://quarto.org/). It is a great tool for making reproducible documents and presentations, and I am beginning to prefer it for most of my work. Hit `f` to view fullscreen.
 
 <div class="container">
   <div class="row">
