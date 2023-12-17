@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practical Python
-description: 
+description: Programming fundamentals
 img: # assets/img/beer.jpg # TODO: Pick an image
 importance: 8
 category: personal
@@ -55,7 +55,7 @@ def parse_csv(lines, select=None, types=None, has_headers=True,
     '''
     Parses lines from a CSV file into a list of records
     Takes only lines from a file - allows flexibility of opening differently
-    Typical useage:
+    Typical usage:
         with open('file.csv') as f:
             x = parse_csv(f)
     Note: types needs to match select or row in length
