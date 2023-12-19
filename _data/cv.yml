@@ -63,16 +63,16 @@
 #         - Max Planck Medal
 #       items:
 
-- title: Honors and Awards
-  type: nested_list
-  contents:
-    - title: Military Awards
-      items: 
-        - Combat Infantryman’s Badge
-        - Bronze Star (Valor)
-        - Bronze Star
-        - Army Commendation Medal (Combat)
-        - Army Commendation Medal (3)
+# - title: Honors and Awards
+#   type: nested_list
+#   contents:
+#     - title: Military Awards
+#       items: 
+#         - Combat Infantryman’s Badge
+#         - Bronze Star (Valor)
+#         - Bronze Star
+#         - Army Commendation Medal (Combat)
+#         - Army Commendation Medal (3)
 
 - title: Academic Interests
   type: nested_list
