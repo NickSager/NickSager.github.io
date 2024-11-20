@@ -2,96 +2,99 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Nicholas Sager
+    - name: Email Address
+      value: sager.nick@gmail.com
+    - name: Location
+      value: Heber City, UT
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science
+      institution: Southern Methodist University, Dallas, TX
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Data Science
+        - Specialization in Machine Learning
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Bachelor of Science
+      institution: University of Wisconsin, Madison, WI
+      year: 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Mechanical Engineering
+        - Minor in Mathematics
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Development Engineer Intern
+      institution: Amazon Web Services (AWS)
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+    - title: Data Scientist
+      institution: Equilo
+      year: 2024
+      description:
+    - title: Senior Special Forces Medical Sergeant
+      institution: United States Army
+      year: 2011 - Present
+      description:
+        - title: 19th Special Forces Group (Airborne)
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - Camp Williams, UT
+            - 2020 - Present
+        - title: 5th Special Forces Group (Airborne)
+          contents:
+            - Fort Campbell, KY
+            - 2014 - 2020
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
+#       items:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: nested_list
+#   contents:
+#     - title: Military Awards
+#       items: 
+#         - Combat Infantryman’s Badge
+#         - Bronze Star (Valor)
+#         - Bronze Star
+#         - Army Commendation Medal (Combat)
+#         - Army Commendation Medal (3)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Data Science
+      items: 
+        - Statistical Inference
+        - Modelling and Prediction
+        - Data Visualization
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Deep Learning
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

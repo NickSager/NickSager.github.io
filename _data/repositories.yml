@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - NickSager
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - NickSager/DS7331_Projects
+  - NickSager/advent-of-code
+  - NickSager/MSDS_6306_Project1
+  - NickSager/practical-python
+  - NickSager/MSDS_6371_Project_House_Prices
